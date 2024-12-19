@@ -86,7 +86,7 @@ To update bot follow this step :
 3. Enter session name
 4. Enter your phone number starting with countrycode ex : `+628xxxxxxxx`
 5. After creating sessions, choose `3` start bot
-6. If something wrong with your sessions, reset sessions first, to cancel running bot press `ctrl+c` twice, and start again [from No 1.](#SETUP SESSION).
+6. If something wrong with your sessions, reset sessions first, to cancel running bot press `ctrl+c` twice, and start again from No 1.
 
 ## NOTE
 
