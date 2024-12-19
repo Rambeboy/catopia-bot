@@ -1,10 +1,9 @@
 # CATOPIA BOT
 
-New Airdrops : Catopia
+- New Airdrops : Catopia
+- Register : [Catopia](https://t.me/catopia_game_bot)
 
-🪂 Register : [Catopia](https://t.me/catopia_game_bot)
-
-🐱🌱Plant trees, upgrade pets, complete quests, invite friends and become the best.
+Plant trees, upgrade pets, complete quests, invite friends and become the best.
 
 ## BOT FEATURE
 
@@ -18,7 +17,7 @@ New Airdrops : Catopia
 - Auto Claim Gold
 - Multi Account With Proxy Support
 
-## Prerequisite
+## PREREQUISITES
 
 - Git
 - Node JS
