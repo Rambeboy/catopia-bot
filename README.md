@@ -38,21 +38,17 @@ Plant trees, upgrade pets, complete quests, invite friends and become the best.
    ```bash
    npm run setup
    ```
-4. Configure the bot config 
-   ```bash
-   cp -r config/config_tmp.js config/config.js && cp -r config/proxy_list_tmp.js config/proxy_list.js
-   ```
-5. To configure the app, run
+4. To configure the app, run
    ```bash
    nano config/config.js
    ```
    And add your telegram app id and hash there.
-6. To configure the Proxy, run
+5. To configure the Proxy, run
    ```bash
    nano config/proxy_list.js
    ```
    And add your proxy list there, it currently only support https proxy.
-7. To start the app run
+6. To start the app run
    ```bash
    npm run start
    ```
